@@ -43,6 +43,7 @@ EOF
         flex
         gavinhoward-bc
         go_extractor
+        hidl-gen
         hidl-lint
         m4
         make
